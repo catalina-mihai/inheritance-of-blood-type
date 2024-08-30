@@ -9,7 +9,9 @@ For example, if one parent has blood type AO and the other parent has blood type
 
 In a file called inheritance.c in a folder called inheritance, simulate the inheritance of blood types for each member of a family.
 
-<img width="376" alt="Screenshot 2024-02-02 at 14 28 33" src="https://github.com/cmartinezal/inheritance/assets/84383847/dfaebedb-0f77-4b71-b9ac-898ad8a00faa">
+<p align="center"> 
+  <img src="301965156-dfaebedb-0f77-4b71-b9ac-898ad8a00faa.png" alt="Animated gif pacman game" height="282px" width="637">
+</p>
 
 ## Implementation Details
 
