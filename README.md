@@ -1,5 +1,5 @@
 # Inheritance
-Program in C to simulate the inheritance of blood types./.
+Program in C to simulate the inheritance of blood types.
 
 ## Problem to Solve
 
